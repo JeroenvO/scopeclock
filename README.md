@@ -3,7 +3,7 @@
 C port of https://github.com/kosma/bakingbread because the python was too heavy to run on my Raspberry Pi 1.
 Compiled version runs on Raspberry Debian minimal.
 
-![Screenshot](https://raw.github.com/jeroenvo/scopeclock/master/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/JeroenvO/scopeclock/master/screenshot.jpg)
 
 Compile:
 -----
